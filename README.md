@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://cdn.discordapp.com/attachments/945867283597758467/947921011104440360/WhatsApp_Image_2021-11-24_at_16.06.04.jpeg" alt="">  
 <!--
 **VinicioJesus/VinicioJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
