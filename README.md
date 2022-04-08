@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://images-ext-1.discordapp.net/external/pe0kPHgZ8htS1EBbrO-AmeZmHBPXIvXaVa4e4qgUUTs/https/uploads.disquscdn.com/images/6c38072d800ec42185f1a69e1a20f1c02dbdd9153d2704c72e15c1b60b3ba249.gif?width=1440&height=288" alt="">  
+<!-- <img src="https://images-ext-1.discordapp.net/external/pe0kPHgZ8htS1EBbrO-AmeZmHBPXIvXaVa4e4qgUUTs/https/uploads.disquscdn.com/images/6c38072d800ec42185f1a69e1a20f1c02dbdd9153d2704c72e15c1b60b3ba249.gif?width=1440&height=288" alt="">   -->
 <!--
 **VinicioJesus/VinicioJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
