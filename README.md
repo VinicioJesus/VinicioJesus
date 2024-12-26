@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicio Jesus</h1>
 <h3 align="center">A student of system development in Brazil</h3>
 
-- 🌱 I’m currently learning **Html, CSS, Java, JavaScript**
+- 🌱 I’m currently learning Mastering **Fundamentals of Html, CSS, JavaScript**
 
 <h3 align="left">Languages and Tools:</h3>
 
